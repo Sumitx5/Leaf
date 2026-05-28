@@ -1,21 +1,38 @@
-# Leaf
-A BDFD & Python Bot Its Prefix is `!help`
+# 🍃 Leaf
 
-<p>All The Features of this bot can be used on discord and u can also use these code for refrence for your own bot.</p>
-<p>it's a bot which is desined on a specific Language BotDesignerForDiscord(BDFD) or BDJS.</p>
+A multi-framework Discord bot designed using both **Bot Designer for Discord (BDFD / BDJS)** and **Python**. This bot is ready to deploy on your server, and its source code serves as a great reference for building your own Discord bots!
 
+[![Python Version](https://img.shields.io/badge/Python-Version-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://github.com/Sumit282698/Leafx1.1)
+[![Framework](https://img.shields.io/badge/Bot%20Designer-BDFD%20%2F%20BDJS-orange?style=flat-square)](https://botdesignerdiscord.com/)
 
-# Link to Python Version
-<p>Python: <a href="https://github.com/Sumit282698/Leafx1.1">Click ME</a> </p>
+---
 
+## 🚀 Scripting Languages & Versions
 
-<h1>Features</h1>
-<p>
-  <li>Help Command</li>
-  <li>Lock / Unlock Command</li>
-  <li>Meme (Uses Contents from a web Named(smileworld.in))</li>
-  <li>Simple Coin Flip Game</li>
-  <li>Anti Bot(Prevents the addition of bot's in Server)</li>
-</p
+This project is split into two implementations so you can choose or learn from your preferred environment:
 
+* **BDFD / BDJS Version:** The original mobile/web framework design.
+* **Python Version:** A modular rewrite of the bot. 
+    * 👉 **[Click Here to View the Python Source Code](https://github.com/Sumit282698/Leafx1.1)**
 
+---
+
+## ✨ Features
+
+Leaf comes packed with utility, fun, and moderation capabilities:
+
+* **🛡️ Anti-Bot Security:** Automatically prevents unauthorized bots from being added to your server, keeping it secure.
+* **🔒 Lock / Unlock:** Quickly lock down text channels during raids or unlock them when things clear up.
+* **🎯 Coin Flip Game:** A simple, built-in mini-game for users to test their luck (`Heads` or `Tails`).
+* **😂 Meme Generator:** Fetches and displays fresh memes dynamically from `smileworld.in`.
+* **❓ Help Command:** An organized overview of all available commands and setups.
+
+---
+
+## 💻 Getting Started
+
+The default prefix for Leaf is `!`. 
+
+To get help with commands directly inside your Discord server, simply type:
+```text
+!help
