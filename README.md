@@ -7,7 +7,7 @@ A multi-framework Discord bot designed using both **Bot Designer for Discord (BD
 
 ---
 
-## 🚀 Scripting Languages & Versions
+## Scripting Languages & Versions
 
 This project is split into two implementations so you can choose or learn from your preferred environment:
 
@@ -17,7 +17,7 @@ This project is split into two implementations so you can choose or learn from y
 
 ---
 
-## ✨ Features
+## Features
 
 Leaf comes packed with utility, fun, and moderation capabilities:
 
